@@ -1,1 +1,3 @@
-# analyticscourse_beginner
+# Analytics Course for beginners
+
+![](Program.png)
